@@ -1,6 +1,6 @@
 # Algoritmos de Estrutura de Decisão - Java
 
-1. Receba 2 valores reais. Calcule e mostre o maior deles.
+1. Receba 2 valores inteiros. Calcule e mostre a diferença entre eles.
 
 2. Receba 2 valores reais. Calcule e mostre o maior deles.
 
